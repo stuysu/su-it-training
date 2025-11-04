@@ -1,3 +1,4 @@
 # su-it-training
 
-Hi!!!! I love pumpkins
+- Learned how to write useful commit messages and pull request titles
+- Reviewed protocol for contributing to SU IT and Epsilon
