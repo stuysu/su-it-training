@@ -1,0 +1,2 @@
+- I learned how to copy repositories and work with fetching data.
+- I struggled with running launch.json and then using localhost to have a local version of epsilon.
